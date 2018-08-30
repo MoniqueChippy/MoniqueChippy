@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1533046661,
+	"version": 1535606385,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,7 +8,7 @@
 		"images/background-sheet0.png",
 		"images/breathingcircle-sheet0.png",
 		"images/touchcircle-sheet0.png",
-		"media/don't wake me just yet - peter gundry.ogg",
+		"media/just breathe 3.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
