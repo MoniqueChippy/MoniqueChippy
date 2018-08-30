@@ -21544,6 +21544,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.Every,
 	cr.plugins_.Sprite.prototype.acts.SetScale,
 	cr.system_object.prototype.cnds.CompareBetween,
+	cr.plugins_.Text.prototype.acts.SetVisible,
 	cr.system_object.prototype.cnds.Compare,
 	cr.plugins_.Sprite.prototype.cnds.IsOnScreen,
 	cr.plugins_.Sprite.prototype.acts.SetPosToObject,
